@@ -1,0 +1,6 @@
+- 👋 Hello there! I’m Caio Mori
+- 👀 I’m a software developer and Computer Science student
+- 🌱 I’m currently learning Kotlin and Swift!
+- 💞️ My passion is to work on innovative projects, help companies and organizations reach the next level, sharing my knowledge and expertise.
+- 💻 My skills - Fullstack development: | HMTL | CSS | JavaScript | Bootsrap | Node.js | Ruby | Rails | Python | SQL | MySQL | Python |
+- 📫 https://www.linkedin.com/in/caiomori
